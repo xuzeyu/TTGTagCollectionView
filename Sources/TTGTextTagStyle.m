@@ -17,12 +17,12 @@
         _textAlignment = NSTextAlignmentCenter;
         _enableGradientBackground = NO;
         _cornerRadius = 4;
-        _borderColor = [UIColor whiteColor];
-        _borderWidth = 1;
-        _shadowColor = [UIColor blackColor];
-        _shadowOffset = CGSizeMake(2, 2);
-        _shadowRadius = 2;
-        _shadowOpacity = 0.3;
+//        _borderColor = [UIColor whiteColor];
+//        _borderWidth = 1;
+//        _shadowColor = [UIColor blackColor];
+//        _shadowOffset = CGSizeMake(2, 2);
+//        _shadowRadius = 2;
+//        _shadowOpacity = 0.3;
         _numberOfLines = 1;
     }
     return self;

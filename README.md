@@ -17,11 +17,10 @@
 ## 如何导入
 
 ```
-pod 'TTGTagCollectionView
-', :git => 'https://github.com/xuzeyu/TTGTagCollectionView.git'
+pod 'TTGTagCollectionView', :git => 'https://github.com/xuzeyu/TTGTagCollectionView.git'
 ```
 
 ## 版本新增
-2.4.1.1  TTGTextTagStyle增加numberOfLines,可以设置标签显示行数
+2.4.1.1  TTGTextTagStyle增加numberOfLines,可以设置标签显示行数，修改TTGTextTagStyle默认状态，设置默认无边框，无阴影
 
 
