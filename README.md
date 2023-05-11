@@ -18,7 +18,7 @@
 
 ```
 pod 'TTGTagCollectionView
-', :git => 'https://github.com/zekunyan/TTGTagCollectionView.git'
+', :git => 'https://github.com/xuzeyu/TTGTagCollectionView.git'
 ```
 
 ## 版本新增
