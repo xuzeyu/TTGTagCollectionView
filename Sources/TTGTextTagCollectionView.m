@@ -88,6 +88,9 @@
     
     // Text alignment
     _label.textAlignment = _config.getRightfulStyle.textAlignment;
+    
+    // Text numberOfLines
+    _label.numberOfLines = _config.getRightfulStyle.numberOfLines;
 
     // Gradient background
     if (_config.getRightfulStyle.enableGradientBackground) {

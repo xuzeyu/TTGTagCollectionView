@@ -23,6 +23,7 @@
         _shadowOffset = CGSizeMake(2, 2);
         _shadowRadius = 2;
         _shadowOpacity = 0.3;
+        _numberOfLines = 1;
     }
     return self;
 }
@@ -33,6 +34,7 @@
     if (copy != nil) {
         copy.backgroundColor = self.backgroundColor;
         copy.textAlignment = self.textAlignment;
+        copy.numberOfLines = self.numberOfLines;
         copy.enableGradientBackground = self.enableGradientBackground;
         copy.gradientBackgroundStartColor = self.gradientBackgroundStartColor;
         copy.gradientBackgroundEndColor = self.gradientBackgroundEndColor;

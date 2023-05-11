@@ -17,6 +17,9 @@
 /// Text alignment
 @property (nonatomic, assign) NSTextAlignment textAlignment; // Default is NSTextAlignmentCenter
 
+/// Text numberOfLines
+@property (nonatomic, assign) NSInteger numberOfLines; // Default is 1
+
 /// Gradient background color
 @property (nonatomic, assign) BOOL enableGradientBackground; // Default is NO
 @property (nonatomic, copy) UIColor * _Nonnull gradientBackgroundStartColor;
